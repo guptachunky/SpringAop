@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AOPAssignment.iml" filepath="$PROJECT_DIR$/.idea/modules/AOPAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AOPAssignment_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AOPAssignment_main.iml" group="AOPAssignment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AOPAssignment_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AOPAssignment_test.iml" group="AOPAssignment" />
+    </modules>
+  </component>
+</project>
